@@ -1,0 +1,30 @@
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+INFO:package1.hello:info
+WARNING:package1.hello:Hello world
+ERROR:package1.hello:test error
+INFO:package1.hello:info
