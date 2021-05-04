@@ -1,0 +1,7 @@
+    1: def recurse(level):
+    3:     print(f"Level: {level}")
+    3:     if level:
+    2:         recurse(level - 1)
+       
+    1: def not_called():
+           print("This is not called")
